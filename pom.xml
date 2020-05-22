@@ -10,8 +10,6 @@
 <build>
     <finalName>docker-integration-test-sample</finalName>
 </build>
-    <build>
-        <finalName>hello-world</finalName>
-    </build>
+
 
 </project>
